@@ -27,10 +27,11 @@ This repository builds upon the [WALDO](https://github.com/stephansturges/WALDO)
    ```
 
 3. Place your aerial footage videos in the `./input_vids` folder.
-4. Add the main.py script in the `playground` folder.
-5. Run the main script:
+4. Copy the desired model to the `playground` folder.
+5. Add the main.py script in the `playground` folder.
+6. Run the main script:
    ``` bash
-   python3 your_script_name.py
+   python3 main.py
    ```
 
 ## Acknowledgments
